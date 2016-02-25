@@ -1,0 +1,5 @@
+H:\Visual Studio Projects\DAL_Leave\DAL_Leave\bin\Debug\DAL_Leave.dll
+H:\Visual Studio Projects\DAL_Leave\DAL_Leave\bin\Debug\DAL_Leave.pdb
+H:\Visual Studio Projects\DAL_Leave\DAL_Leave\obj\Debug\DAL_Leave.csprojResolveAssemblyReference.cache
+H:\Visual Studio Projects\DAL_Leave\DAL_Leave\obj\Debug\DAL_Leave.dll
+H:\Visual Studio Projects\DAL_Leave\DAL_Leave\obj\Debug\DAL_Leave.pdb
