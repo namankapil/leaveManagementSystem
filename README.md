@@ -1,2 +1,2 @@
 # leaveManagementSystem
-NMIMS Lesve Mangement System
+NMIMS Leave Mangement System
